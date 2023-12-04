@@ -1,7 +1,4 @@
 #include <bits/stdc++.h>
-#include <cctype>
-#include <iterator>
-#include <sstream>
 using namespace std;
 
 map<pair<int, int>, vector<int>> gears;
